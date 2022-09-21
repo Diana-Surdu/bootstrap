@@ -1,0 +1,19 @@
+.sa-text-justify {
+  text-align: justify;
+}
+
+.sa-reaction .dropdown-menu.show {
+  display: flex;
+}
+
+.icon-strange-green {
+  color: green;
+}
+
+.icon-smile-orange {
+  color: orange;
+}
+
+.icon-brown {
+  color: brown;
+}
